@@ -1,0 +1,6 @@
+npm i -g expo-cli
+npx create-expo-app my-app
+npx expo start
+npm install native-base
+expo install react-native-svg@12.1.1
+expo install react-native-safe-area-context@3.3.2

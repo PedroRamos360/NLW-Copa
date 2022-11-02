@@ -1,0 +1,2 @@
+npx create-next-app@latest --use-npm
+npm run dev
