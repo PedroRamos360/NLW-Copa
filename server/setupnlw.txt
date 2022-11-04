@@ -10,3 +10,6 @@ npx prisma migrate dev
 npm i prisma-erd-generator @mermaid-js/mermaid-cli -D
 npx prisma generate
 npm i @fastify/cors
+npx prisma db seed
+npx prisma studio
+npm i zod
